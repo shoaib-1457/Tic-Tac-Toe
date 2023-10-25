@@ -74,9 +74,15 @@ Here are some screenshots of our Tic Tac Toe game:
 
 We appreciate the following contributors who have helped make this project possible:
 
-1. [Your Name](https://github.com/shoaib-1457)
-2. [Contributor Name](https://github.com/neutx)
-3. ...
+## Contributors of `Hacktoberfest`
+
+<div align="center">
+
+<a href="https://github.com/shoaib-1457/Tic-Tac-Toe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shoaib-1457/Tic/Tac/Toe" />
+</a>
+  
+  </div>
 
 Thank you for your contributions and support!
 
