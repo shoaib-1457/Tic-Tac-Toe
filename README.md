@@ -2,7 +2,7 @@
 
 Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to this fun project and enhance the classic game of Tic Tac Toe using HTML, CSS, and JavaScript. Your contributions are highly appreciated, and this README will guide you on how to get started.
 
-[![made-with-html-css-js](https://img.shields.io/badge/Made%20with-Html-1f425f.svg)](https://flutter.dev/) 
+[![made-with-html-css-js](https://img.shields.io/badge/Made%20with-Html-1f425f.svg)(https://img.shields.io/badge/Made%20with-css-1f425f.svg)(https://img.shields.io/badge/Made%20with-js-1f425f.svg)](https://flutter.dev/) 
 
 ### Don't forget to :star: the repo
 
