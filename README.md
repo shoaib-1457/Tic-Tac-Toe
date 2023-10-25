@@ -2,6 +2,14 @@
 
 Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to this fun project and enhance the classic game of Tic Tac Toe using HTML, CSS, and JavaScript. Your contributions are highly appreciated, and this README will guide you on how to get started.
 
+[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/TheGuyDangerous/Voicerra) ![Downloads](https://img.shields.io/github/downloads/TheGuyDangerous/Voicerra/total)
+[![Build](https://github.com/TheGuyDangerous/Voicerra/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/TheGuyDangerous/Voicerra/actions/workflows/flutter-ci.yml)
+
+### Don't forget to :star: the repo
+
+[![GitHub stars](https://img.shields.io/github/stars/TheGuyDangerous/Voicerra.svg?style=social&label=Star)](https://github.com//TheGuyDangerous/Voicerra) ![GitHub forks](https://img.shields.io/github/forks/TheGuyDangerous/Voicerra.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/TheGuyDangerous.svg?style=social&label=Follow)
+
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
