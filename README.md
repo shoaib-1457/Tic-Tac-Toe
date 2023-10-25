@@ -4,12 +4,12 @@ Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to
 
 [![made-with-html-css-js](https://img.shields.io/badge/Made%20with-Html-1f425f.svg)] 
 
-### `Don't forget to :star: the repo`
+### Don't forget to :star: the repo
 
 [![GitHub stars](https://img.shields.io/github/stars/shoaib-1457/Tic-Tac-Toe.svg?style=social&label=Star)](https://github.com//shoaib-1457/Tic-Tac-Toe) ![GitHub forks](https://img.shields.io/github/forks/shoaib-1457/Tic-Tac-Toe.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/neutx.svg?style=social&label=Follow)
 
 
-## `Table of Contents`
+## Table of Contents
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
 - [Project Images](#project-images)
