@@ -1,4 +1,4 @@
-# `Hacktoberfest Tic Tac Toe`
+# Hacktoberfest Tic Tac Toe
 
 Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to this fun project and enhance the classic game of Tic Tac Toe using HTML, CSS, and JavaScript. Your contributions are highly appreciated, and this README will guide you on how to get started.
 
