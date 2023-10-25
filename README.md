@@ -2,7 +2,7 @@
 
 Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to this fun project and enhance the classic game of Tic Tac Toe using HTML, CSS, and JavaScript. Your contributions are highly appreciated, and this README will guide you on how to get started.
 
-[![made-with-html-css-js](https://img.shields.io/badge/Made%20with-Html-1f425f.svg)(https://img.shields.io/badge/Made%20with-css-1f425f.svg)(https://img.shields.io/badge/Made%20with-js-1f425f.svg)](https://flutter.dev/) 
+[![made-with-html-css-js](https://img.shields.io/badge/Made%20with-Html-1f425f.svg)] 
 
 ### Don't forget to :star: the repo
 
@@ -22,24 +22,35 @@ Follow these steps to get a local copy of the project and start contributing:
 1. Fork this repository by clicking the 'Fork' button at the top-right of the page.
 2. Clone your forked repository to your local machine:
 
+```
 git clone https://github.com/shoaib-1457/Tic-Tac-Toe.git
+```
 
 3. Navigate to the project directory:
 
+```
 cd Tic-Tac-Toe
+```
 
 4. Create a new branch for your feature or bug fix:
 
+```
 git checkout -b feature-name
+```
 
 5. Make your changes and commit them:
 
+```
 git add .
 git commit -m "Add your commit message here"
+```
 
 6. Push your changes to your fork:
 
+```
 git push origin feature-name
+```
+
 
 7. Create a pull request from your fork to this repository via the GitHub website.
 
