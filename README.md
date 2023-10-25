@@ -79,7 +79,7 @@ We appreciate the following contributors who have helped make this project possi
 <div align="center">
 
 <a href="https://github.com/shoaib-1457/Tic-Tac-Toe/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shoaib-1457/Tic/Tac/Toe" />
+  <img src="https://contrib.rocks/image?repo=shoaib-1457/Tic-Tac-Toe" />
 </a>
   
   </div>
