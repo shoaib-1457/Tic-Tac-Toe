@@ -7,7 +7,7 @@ Welcome to the Hacktoberfest Tic Tac Toe project! We invite you to contribute to
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/TheGuyDangerous/Voicerra.svg?style=social&label=Star)](https://github.com//TheGuyDangerous/Voicerra) ![GitHub forks](https://img.shields.io/github/forks/TheGuyDangerous/Voicerra.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/TheGuyDangerous.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/shoaib-1457/Tic-Tac-Toe.svg?style=social&label=Star)](https://github.com//shoaib-1457/Tic-Tac-Toe) ![GitHub forks](https://img.shields.io/github/forks/shoaib-1457/Tic-Tac-Toe.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/neutx.svg?style=social&label=Follow)
 
 
 ## Table of Contents
